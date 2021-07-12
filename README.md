@@ -245,14 +245,14 @@ Project Link: [https://github.com/jacksonthemaster/elasticip (https://github.com
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/jacksonthemaster/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/jacksonthemaster/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/jacksonthemaster/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/jacksonthemaster/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/jacksonthemaster/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/jacksonthemaster/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/jacksonthemaster/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/jacksonthemaster/repo/issues
-[license-shield]: https://img.shields.io/github/license/jacksonthemaster/repo.svg?style=for-the-badge
-[license-url]: https://github.com/jacksonthemaster/repo/blob/master/LICENSE.txt
+[contributors-url]: https://github.com/jacksonthemaster/elasticip/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/jacksonthemaster/elasticip.svg?style=for-the-badge
+[forks-url]: https://github.com/jacksonthemaster/elasticip/network/members
+[stars-shield]: https://img.shields.io/github/stars/jacksonthemaster/elasticip.svg?style=for-the-badge
+[stars-url]: https://github.com/jacksonthemaster/elasticip/stargazers
+[issues-shield]: https://img.shields.io/github/issues/jacksonthemaster/elasticip.svg?style=for-the-badge
+[issues-url]: https://github.com/jacksonthemaster/elasticip/issues
+[license-shield]: https://img.shields.io/github/license/jacksonthemaster/elasticip.svg?style=for-the-badge
+[license-url]: https://github.com/jacksonthemaster/elasticip/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/jacksonthemaster
+[linkedin-url]: https://linkedin.com/in/jmg-it
