@@ -114,9 +114,9 @@ In order for this to work, follow this:
 
 To get a local copy up and running follow these simple steps.
 
-### Prerequisites###
+### Prerequisites
 
--A cloud instance from a hoster (hetzner, linode, amazon ec2, hetzner, whatever u prefer)
+-A cloud instance from a hoster (hetzner, linode, amazon ec2, whatever u prefer)
 
 -Running ubuntu (debian not tested- feel free to do so, probably works)
 
