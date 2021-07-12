@@ -186,6 +186,14 @@ Make sure to replace the cloudflare account data spaces in /elasticip/src/req.py
  ```sh
  ZONE-ID: google "how to get cloudflare Zone ID, it's easy."
  url: "https://api.cloudflare.com/client/v4/zones/Cloudflare-ZONE-ID/dns_records?type=A&name=DEFINITE_A_RECORD.DOMAIN.TLD&type=&page=1&per_page=20&order=type&direction=desc&match=all"
+
+ ```
+ 
+ Make sure to replace ZONE-ID and DEFINITE_A_RECORD.DOMAIN.TLD in the URL!!!!
+ 
+ 
+ 
+``` sh
  bearer: "A Cloudflare accsess Token for your account (settings page, tokens. If unsure, use origin key.)"
  email: "your cloudflare registerd Email."
    ```
