@@ -104,7 +104,7 @@ In order for this to work, follow this:
 
 ### Built With
 
-* [Python](Python)
+* [https://www.python.org/](Python)
 
 
 
@@ -119,6 +119,7 @@ To get a local copy up and running follow these simple steps.
 
 -Running ubuntu (debian not tested- feel free to do so, probably works)
 
+-python (3.9 tested)
 
 -A static ip from your cloud provider configured on that machine 
 
