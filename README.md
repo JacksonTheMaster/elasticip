@@ -202,17 +202,6 @@ Make sure to replace the cloudflare account data spaces in /elasticip/src/req.py
 
 This data can be obtained in many ways, Zone ID and Token probably beeing the hardest to google. I leave this on you, but feel free to contact me.
 
-<!-- USAGE EXAMPLES -->
-## Usage
-none, sorry guys :uwu
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-none, sorry guys :uwu
-
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -229,7 +218,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the Creative Commons License. See `LICENSE` for more information.
 
 
 
