@@ -104,7 +104,8 @@ In order for this to work, follow this:
 
 ### Built With
 
-* [https://www.python.org/](Python)
+* [Python](https://www.python.org/)
+* [Docker Image processing] (hub.docker.com)
 
 
 
