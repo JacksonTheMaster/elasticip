@@ -225,7 +225,7 @@ Distributed under the Creative Commons License. See `LICENSE` for more informati
 <!-- CONTACT -->
 ## Contact
 
-Jacky - [jlangisch](https://twitter.com/jlangisch) - jacky@jmg-it.de
+Jacky - [jakoblangisch](https://twitter.com/jakoblangisch) - jacky@jmg-it.de
 
 Project Link: [https://github.com/jacksonthemaster/elasticip (https://github.com/jacksonthemaster/elasticip)
 
